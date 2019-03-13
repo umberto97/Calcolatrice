@@ -16,7 +16,5 @@ class MainActivity : AppCompatActivity() {
             val b=n2.text.toString().toInt()
             ris.setText((a+b).toString())
         }
-        val h=5
-        val n=6
     }
 }
