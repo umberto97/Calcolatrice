@@ -48,7 +48,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView3"/>
     <TextView
             android:text="Risultato"
-            android:layout_width="72dp"
+            android:layout_width="123dp"
             android:layout_height="37dp"
             android:id="@+id/ris"
             app:layout_constraintStart_toStartOf="parent"
